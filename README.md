@@ -2,7 +2,8 @@
 ### Agilent Human 4x44K Microarrays Data Analysis Workflow in R
 
 
-Collection of R scripts to import, pre-process and statistically evaluate Agilent Human 4x44 Two Color microarray data  
+Collection of R scripts to import, pre-process and statistically evaluate Agilent Human 4x44 Two Color microarray data. After defining data files, target matrix file and experimental levels/contrast matrix, the full script can be executed at once.
+  
 
   - Import of target matrix (table containing sample information)
   - Import of raw data (Data obtained from Agilent Feature extraction)
